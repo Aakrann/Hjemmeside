@@ -1,0 +1,31 @@
+body {
+  background-color: #012634;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  color: white;
+  margin-top: auto;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: bold;
+}
+.vadholmen {
+  width: auto;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+.testbilde2 {
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+li {
+  text-align: left;
+  color: white;
+}
