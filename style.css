@@ -11,21 +11,21 @@ h1 {
   font-weight: bold;
 }
 .vadholmen {
-  width: auto;
+  width: 800px;
+  height: 200px;
   border-radius: 10px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 40px;
 }
-.testbilde2 {
-  width: 400px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 
 li {
   text-align: left;
-  color: white;
+  color: black;
+}
+
+.buti {
+  background-color: gray;
+  padding: 20px 40px;
 }
